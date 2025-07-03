@@ -1,8 +1,8 @@
 # Algorytm Gale’a-Shapleya (Stable Matching)
 
-**Autorzy:** Igor Owczarek, Jan Potoczek, Michał Szczurek, Szymon Marek
+🏅 Nagroda Nobla
 
-## 📌 Wprowadzenie
+W 2012 roku Alvin Roth i [Lloyd Shapley](https://en.wikipedia.org/wiki/Lloyd_Shapley) otrzymali Nagrodę Nobla w dziedzinie ekonomii za wkład w teorię stabilnych alokacji oraz projektowanie rynków, w tym rozwój i zastosowanie algorytmu Gale’a-Shapleya.
 
 Algorytm Gale’a-Shapleya (1962) rozwiązuje **problem stabilnego skojarzenia** dwóch zbiorów uczestników o równolicznej liczebności, z których każdy posiada listę preferencji. Znajduje stabilne dopasowanie, w którym nie istnieją pary chcące zerwać swoje obecne dopasowania na rzecz siebie nawzajem.
 
@@ -33,23 +33,12 @@ Złożoność czasowa: **O(n²)**.
 
 ---
 
-## 💡 Przykład
-
-Dla zbiorów:
-
-* Mężczyźni: Aleksander, Bolek, Czesiek, Daniel, Edward
-* Kobiety: Grażyna, Halina, Irena, Jadwiga, Karolina
-
-oraz ich preferencji, algorytm znajdzie stabilne dopasowania gwarantujące brak konfliktów oraz możliwość stabilnego skojarzenia wszystkich uczestników.
-
----
-
 ## 🚀 Uruchomienie projektu
 
 1️⃣ Sklonuj repo:
 
 ```bash
-git clone https://github.com/<twoj_nick>/gale-shapley-algorithm.git
+git clone https://github.com/neon-symeon/gale-shapley-algorithm.git
 cd gale-shapley-algorithm
 ```
 
@@ -96,9 +85,11 @@ coverage report -m
 
 ## 📚 Dalsze materiały
 
+* link do profilu autora na [linked-in](https://www.linkedin.com/in/szymon-jan-marek/)
 * Roughgarden T. *Kidney Exchange and Stable Matching*, *Twenty Lectures on Algorithmic Game Theory*, Cambridge University Press (2016).
 * Pass (2018) - *A Course in Networks and Markets*.
 * [Film wyjaśniający algorytm (YouTube)](https://youtu.be/0m_YW1zVs-Q?si=fKaSp8ktp1Ekxi-o)
+* [Inna wersja algorytmu dostępna na github](https://github.com/shubh11220/The-Stable-Matching-Algorithm/blob/master/Stable_Matching.py)
 
 ---
 
@@ -111,6 +102,5 @@ Projekt udostępniony na licencji **MIT** – możesz korzystać, modyfikować i
 ## ✨ Podziękowania
 
 Dziękujemy za zainteresowanie projektem!
-Zachęcamy do przeczytania pełnego **artykułu o algorytmie Gale’a-Shapleya na naszym [LinkedIn](tutaj-wstaw-link-do-artykulu)** (gdy opublikujesz).
 
-> Jeśli uznasz projekt za wartościowy, zostaw ⭐ na GitHub – pomoże nam dotrzeć do innych zainteresowanych stabilnymi dopasowaniami!
+> Jeśli uznasz projekt za wartościowy, zostaw ⭐ na GitHub – pomoże nam to w rozwoju profilu!
