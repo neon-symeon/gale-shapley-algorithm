@@ -102,6 +102,6 @@ Projekt udostępniony na licencji **MIT** – możesz korzystać, modyfikować i
 
 ## Podziękowania
 
-Dziękujemy za zainteresowanie projektem!
+Dziękuję za zainteresowanie projektem!
 
-> Jeśli uznasz projekt za wartościowy, zostaw ⭐ na GitHub – pomoże nam to w rozwoju profilu!
+> Jeśli uznasz projekt za wartościowy, zostaw ⭐ na GitHub – pomoże mi to w rozwoju profilu!
